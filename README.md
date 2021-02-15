@@ -1,1 +1,1 @@
-# Coosi29-FlatShop
+# Coosi29-JavaScript
